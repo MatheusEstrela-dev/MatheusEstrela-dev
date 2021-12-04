@@ -1,6 +1,6 @@
 ### Olá meu caro, Bem-Vindo ao meu Pseudonimo... 👋
 
-- 💻 Atualmento estudo Programacao por conta.
+- 💻 Atualmento estudo programação autonomo.
 - 🔥 linguagem preferida? Python 
 - 💬 Quem é o Pseudonimo
 - 📫 @code_4mr.robot
