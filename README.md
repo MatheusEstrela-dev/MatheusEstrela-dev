@@ -12,11 +12,10 @@ Tenho direcionado meus estudos para [SUA_AREA_1], [SUA_AREA_2] e desenvolvimento
 
 ### Sobre mim
 
--  apaixonado(a) por desenvolvimento de software e resolução de problemas.
+- Apaixonado(a) por desenvolvimento de software e resolução de problemas.
 - Autodidata, sempre em busca de novos conhecimentos e desafios.
-- Atualmente estudando: [TECNOLOGIA_1], [TECNOLOGIA_2], [TECNOLOGIA_3] e [TECNOLOGIA_4].
-- Explorando o universo de [SEU_INTERESSE_1] e suas aplicações práticas.
-- Você pode acompanhar minha jornada e projetos aqui no GitHub!
+- Atualmente estudando: Python, Javascript, Orientada a Objeto e Algoritmo.
+- Explorando o universo de Intekligencia Artificial e suas aplicações práticas.
 
 ---
 
@@ -80,7 +79,7 @@ Tenho direcionado meus estudos para [SUA_AREA_1], [SUA_AREA_2] e desenvolvimento
 
 ---
 
-Como estudante de [SEU_CURSO] (Ex: Análise e Desenvolvimento de Sistemas), minha paixão é construir soluções completas com [SUA_TECNOLOGIA_PRINCIPAL].
+Como estudante de Análise e Desenvolvimento de Sistemas
 
 Minha jornada no desenvolvimento [SUA_JORNADA] começou com o [FOCO_INICIAL], no [front-end/back-end]. Agora, estou focado(a) em me aprofundar no ecossistema [ECOSSISTEMA_ATUAL] para me especializar também no [FOCO_COMPLEMENTAR].
 
@@ -92,6 +91,6 @@ Acredito que aprender construindo é o melhor caminho, e por isso transformo teo
 
 <p align="left">
 <a href="mailto:[SEU_EMAIL]" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/[SEU_USUARIO_LINKEDIN]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/[SEU_USUARIO_LINKEDIN]" target="_blank"><img src="linkedin.com/in/matheus-estrela-32072a104/?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/[SEU_USUARIO_INSTAGRAM]" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
